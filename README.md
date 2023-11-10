@@ -1,2 +1,3 @@
 # Automation_python
-python for automation
+
+👋 Hi, I’m @Keihk! Thank you for your visiting "python for automation"!
